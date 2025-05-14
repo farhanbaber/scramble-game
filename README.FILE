@@ -1,0 +1,36 @@
+🧩 Scramble Game
+
+A simple and fun word scramble game built using HTML, CSS, and JavaScript. The player is presented with a scrambled word and must guess the correct word within a limited number of attempts.
+
+🚀 Features
+
+- Random word scrambling
+- User-friendly interface
+- Score tracking or limited guesses (optional)
+- Responsive design
+- Instant feedback on user input
+
+ 🎮 How to Play
+
+1. A scrambled word will appear on the screen.
+2. You must guess the original word.
+3. Type your answer and click ||ubmit||.
+4. The game will check your answer and respond accordingly.
+5. Try to guess as many correct words as possible!
+
+ 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+
+📂 Folder Structure
+
+`bash
+scramble-game/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.file
